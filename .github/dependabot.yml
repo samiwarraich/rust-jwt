@@ -11,5 +11,5 @@ updates:
     commit-message:
       prefix: "npm"
     labels:
-      - "npm"
+      - "cargo"
       - "dependencies"
