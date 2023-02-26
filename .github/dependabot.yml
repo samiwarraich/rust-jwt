@@ -9,7 +9,7 @@ updates:
     reviewers:
       - "samiwarraich"
     commit-message:
-      prefix: "npm"
+      prefix: "cargo"
     labels:
       - "cargo"
       - "dependencies"
